@@ -1,44 +1,61 @@
 ---
-title: Viktor Vaughn
+title: Danielle Andrews
 ---
-###### [ [Github](https://www.github.com/siph) ] - [ [Blog](https://www.dev.to/siph) ] - [ v.vaughn@gmail.com ] - [ 814 332 8091 ]
-#### Experienced project manager with a track record of delivering high-quality results on time and within budget.
+###### [ danielle.andrews.dev@icloud.com ] - [ [Portfolio](https://danielle-andrews.netlify.app) ] - [ [GitHub](https://www.github.com/DrAcula27) ] - [ [LinkedIn](https://www.linkedin.com/in/daniellerandrews) ]
+#### Creative, detail-oriented software engineer with a deep interest in 3D design and AI/ML. Proven track record of creating and implementing successful front-end and back-end web applications. Recognized as a strong individual contributor and influential team member, dedicated to continuously upskilling for career growth. Looking to bring skills to a tech company with global impact.
 
 ## Skills
+```Agile & SCRUM methodologies```
 ```Project management```
-```Team leadership```
-```Budget management```
 ```Communication```
 ```Problem-solving```
-```Agile methodology```
-```Microsoft Project```
-```JIRA```
-```SQL```
 
-**Languages**: Java, Kotlin, Rust  
-**Databases**: Redis, Postgres, Neo4j  
-**Tools**: Spring, Kubernetes, Github-Actions, Linux, Nix, Git, Rest, GraphQL
+**Languages**: JavaScript, HTML, CSS, Sass, SQL
+**Frameworks**: React, React Native, Express, Bootstrap, Tailwind CSS, Material UI
+**Databases**: MongoDB, Postgres
+**Tools**: GitHub-Actions, Linux, Nix, Git, Rest, Node.js
 
 ## Experience
-### Jamba Juice
-##### Senior Project Manager, January 2015 - Present
-- Led cross-functional teams in the successful delivery of multiple software projects, including a major website redesign and a mobile app launch.
-- Managed budgets of up to $5 million and ensured projects were delivered on time and within scope.
-- Coordinated communication with stakeholders, including executive leadership and development teams.
+### Software Engineer at 100Devs | Remote
+##### September 2023 – Present
+- Collaborate asynchronously with a team of developers to build modern and responsive web applications using best practices.
+- Build semantically structured full-stack web applications.
+- Apply agile methodologies like SCRUM for project management.
+- **Recent Projects:**
+  - [My Cook Book Recipe Saver](https://cook-book-g2cf.onrender.com/ 'My Cook Book Recipe Saver') – Users can search for, view, and save recipes. Integrated with TheMealDB API. Supports searching for a recipe by name or filtering recipes by multiple criteria.
+- **Other Projects:**
+  - [Star Gazers APOD](https://dracula27.github.io/starGazersAPOD/ 'Star Gazers APOD') - integrate with NASA APIs to show astronomy media
+  - [Drink Deck](https://dracula27.github.io/drinkDeck/ 'Drink Deck') - search for and display cocktail recipes in a carousel
+  - [Star Wars Starships](https://starwars-lab.onrender.com/ 'Star Wars Starships') - integrate with SWAPI to show starships on demand
 
-### PF Chang's
-##### Project Manager, February 2011 - December 2014
-- Managed a portfolio of software and hardware projects, including a new CRM implementation and a network infrastructure upgrade.
-- Worked closely with business analysts and technical teams to ensure project requirements were met and delivered on schedule.
-- Maintained project documentation and provided regular status updates to executive leadership.
+### Software Engineer at Danielle’s Consulting | Remote
+##### September 2023 – Present
+- Design and develop custom full-stack interactive web applications and static websites for different clients across small to medium-sized businesses.
+- Launch responsive sites within budget and on schedule.
+- Consult on SEO and social media strategy.
+- Create business logos, demographics, and color schemes.
+- **Client example:**
+  - [The Bridge Workforce Training and Development, LLC](https://the-bridge-workforce-two.vercel.app/ 'The Bridge Workforce')
 
-
-## Projects
-**[*resume-md*](http://www.github.com/siph/resume-md)**
-
-Build your resume using markdown and have it generated as a pdf and html.
+### Software Engineer at [Playpod](https://www.playpod.io/ 'Playpod') | Remote
+##### June 2023 – September 2023
+- Expanded user base by 95% by implementing English/Spanish language support.
+- Achieved a 40% decrease in user drop-off rates by:
+  - implementing robust error handling,
+  - introducing a diverse cache of profile photos for user selection, and
+  - incorporating intuitive breadcrumbs for seamless navigation.
+- Collaborated with back-end developers, troubleshooted errors, and improved user experience.
 
 ## Education
+### Kennesaw State University
+##### 2014-2018
+**Degree:** Bachelor of Science in Mechanical Engineering | **Honors:** Magna Cum Laude graduate with Global Engagement Certification | **Relevant Coursework:** Programming for Engineers (C++)
 
-### Reno University
-**Degree:** Bachelor of Science in Computer Science | **Years Attended:** 2016-2019 | **City, State:** Reno, NV
+## Military: 
+##### USMC RESERVE | 2011–2019
+- Helicopter Mechanic | Sergeant (E5)
+
+## Volunteering
+### Hack for LA | Remote
+##### April 2024 – Present
+- Contribute to Hack for LA’s [website](https://www.hackforla.org 'Hack for LA').
